@@ -72,6 +72,7 @@ header {
       print "#include <errno.h>";
       print "#ifdef _WIN32";
       print "#include <winsock2.h>";
+      print "#undef EPROTO";
       print "#endif";
        print "";
       header = 0;
