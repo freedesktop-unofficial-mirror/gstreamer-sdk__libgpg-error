@@ -1,6 +1,6 @@
-# Mesajele Ón limba rom‚n„ pentru libgpg-error.
+# Mesajele √Æn limba rom√¢n√£ pentru libgpg-error.
 # Copyright (C) 2005 Free Software Foundation, Inc.
-# Acest fi∫ier este distribuit sub aceea∫i licen˛„ ca ∫i pachetul libgpg-error.
+# Acest fi¬∫ier este distribuit sub aceea¬∫i licen√æ√£ ca ¬∫i pachetul libgpg-error.
 # Laurentiu Buzdugan <lbuz@rolix.org>, 2005.
 #
 #
@@ -14,13 +14,13 @@ msgstr ""
 "Last-Translator: Laurentiu Buzdugan <lbuz@rolix.org>\n"
 "Language-Team: Romanian <translation-team-ro@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=ISO-8859-2\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: src/err-sources.h:28
 msgid "Unspecified source"
-msgstr "Surs„ nespecificat„"
+msgstr "Surs√£ nespecificat√£"
 
 #: src/err-sources.h:29
 msgid "gcrypt"
@@ -81,27 +81,27 @@ msgstr ""
 #: src/err-sources.h:43
 #, fuzzy
 msgid "Any source"
-msgstr "Surs„ necunoscut„"
+msgstr "Surs√£ necunoscut√£"
 
 #: src/err-sources.h:44
 msgid "User defined source 1"
-msgstr "Surs„ definit„ de utilizator 1"
+msgstr "Surs√£ definit√£ de utilizator 1"
 
 #: src/err-sources.h:45
 msgid "User defined source 2"
-msgstr "Surs„ definit„ de utilizator 2"
+msgstr "Surs√£ definit√£ de utilizator 2"
 
 #: src/err-sources.h:46
 msgid "User defined source 3"
-msgstr "Surs„ definit„ de utilizator 3"
+msgstr "Surs√£ definit√£ de utilizator 3"
 
 #: src/err-sources.h:47
 msgid "User defined source 4"
-msgstr "Surs„ definit„ de utilizator 4"
+msgstr "Surs√£ definit√£ de utilizator 4"
 
 #: src/err-sources.h:48
 msgid "Unknown source"
-msgstr "Surs„ necunoscut„"
+msgstr "Surs√£ necunoscut√£"
 
 #: src/err-codes.h:28
 msgid "Success"
@@ -109,7 +109,7 @@ msgstr "Succes"
 
 #: src/err-codes.h:29
 msgid "General error"
-msgstr "Eroare general„"
+msgstr "Eroare general√£"
 
 #: src/err-codes.h:30
 msgid "Unknown packet"
@@ -117,11 +117,11 @@ msgstr "Pachet necunoscut"
 
 #: src/err-codes.h:31
 msgid "Unknown version in packet"
-msgstr "versiune necunoscut„ Ón pachet"
+msgstr "versiune necunoscut√£ √Æn pachet"
 
 #: src/err-codes.h:32
 msgid "Invalid public key algorithm"
-msgstr "Algoritm cu cheie public„ invalid"
+msgstr "Algoritm cu cheie public√£ invalid"
 
 #: src/err-codes.h:33
 msgid "Invalid digest algorithm"
@@ -129,19 +129,19 @@ msgstr "Algoritm rezumat invalid"
 
 #: src/err-codes.h:34
 msgid "Bad public key"
-msgstr "Cheie public„ incorect„"
+msgstr "Cheie public√£ incorect√£"
 
 #: src/err-codes.h:35
 msgid "Bad secret key"
-msgstr "Cheie secret„ incorect„"
+msgstr "Cheie secret√£ incorect√£"
 
 #: src/err-codes.h:36
 msgid "Bad signature"
-msgstr "Semn„tur„ incorect„"
+msgstr "Semn√£tur√£ incorect√£"
 
 #: src/err-codes.h:37
 msgid "No public key"
-msgstr "Nici o cheie public„"
+msgstr "Nici o cheie public√£"
 
 #: src/err-codes.h:38
 msgid "Checksum error"
@@ -149,7 +149,7 @@ msgstr "Eroare checksum"
 
 #: src/err-codes.h:39
 msgid "Bad passphrase"
-msgstr "Fraz„-parol„ incorect„"
+msgstr "Fraz√£-parol√£ incorect√£"
 
 #: src/err-codes.h:40
 msgid "Invalid cipher algorithm"
@@ -165,7 +165,7 @@ msgstr "Pachet invalid"
 
 #: src/err-codes.h:43
 msgid "Invalid armor"
-msgstr "Armur„ invalid„"
+msgstr "Armur√£ invalid√£"
 
 #: src/err-codes.h:44
 msgid "No user ID"
@@ -173,15 +173,15 @@ msgstr "Nici un ID utilizator."
 
 #: src/err-codes.h:45
 msgid "No secret key"
-msgstr "Nici o cheie secret„"
+msgstr "Nici o cheie secret√£"
 
 #: src/err-codes.h:46
 msgid "Wrong secret key used"
-msgstr "A fost folosit„ o cheie secret„ gre∫it„"
+msgstr "A fost folosit√£ o cheie secret√£ gre¬∫it√£"
 
 #: src/err-codes.h:47
 msgid "Bad session key"
-msgstr "Cheie de sesiune incorect„"
+msgstr "Cheie de sesiune incorect√£"
 
 #: src/err-codes.h:48
 msgid "Unknown compression algorithm"
@@ -189,19 +189,19 @@ msgstr "Algoritm compresie necunoscut"
 
 #: src/err-codes.h:49
 msgid "Number is not prime"
-msgstr "Num„rul nu este prim"
+msgstr "Num√£rul nu este prim"
 
 #: src/err-codes.h:50
 msgid "Invalid encoding method"
-msgstr "Valoare de encodare invalid„"
+msgstr "Valoare de encodare invalid√£"
 
 #: src/err-codes.h:51
 msgid "Invalid encryption scheme"
-msgstr "Schem„ de cifrare invalid„"
+msgstr "Schem√£ de cifrare invalid√£"
 
 #: src/err-codes.h:52
 msgid "Invalid signature scheme"
-msgstr "Schem„ de semn„turi invalid„"
+msgstr "Schem√£ de semn√£turi invalid√£"
 
 #: src/err-codes.h:53
 msgid "Invalid attribute"
@@ -213,27 +213,27 @@ msgstr "Nici o valoare"
 
 #: src/err-codes.h:55
 msgid "Not found"
-msgstr "Nu a fost g„sit(„)"
+msgstr "Nu a fost g√£sit(√£)"
 
 #: src/err-codes.h:56
 msgid "Value not found"
-msgstr "Valoarea nu a fost g„sit„"
+msgstr "Valoarea nu a fost g√£sit√£"
 
 #: src/err-codes.h:57
 msgid "Syntax error"
-msgstr "Eroare de sintax„"
+msgstr "Eroare de sintax√£"
 
 #: src/err-codes.h:58
 msgid "Bad MPI value"
-msgstr "Valoare MPI incorect„"
+msgstr "Valoare MPI incorect√£"
 
 #: src/err-codes.h:59
 msgid "Invalid passphrase"
-msgstr "Fraz„-parol„ invalid„"
+msgstr "Fraz√£-parol√£ invalid√£"
 
 #: src/err-codes.h:60
 msgid "Invalid signature class"
-msgstr "Clas„ semn„turi invalid„"
+msgstr "Clas√£ semn√£turi invalid√£"
 
 #: src/err-codes.h:61
 msgid "Resources exhausted"
@@ -245,7 +245,7 @@ msgstr "Inel de chei invalid"
 
 #: src/err-codes.h:63
 msgid "Trust DB error"
-msgstr "Eroare baz„ de date Óncredere"
+msgstr "Eroare baz√£ de date √Æncredere"
 
 #: src/err-codes.h:64
 msgid "Bad certificate"
@@ -257,7 +257,7 @@ msgstr "ID utilizator invalid"
 
 #: src/err-codes.h:66
 msgid "Unexpected error"
-msgstr "Eroare nea∫teptat„"
+msgstr "Eroare nea¬∫teptat√£"
 
 #: src/err-codes.h:67
 msgid "Time conflict"
@@ -269,7 +269,7 @@ msgstr "Eroare server de chei"
 
 #: src/err-codes.h:69
 msgid "Wrong public key algorithm"
-msgstr "Algoritm cheie public„ gre∫it"
+msgstr "Algoritm cheie public√£ gre¬∫it"
 
 #: src/err-codes.h:70
 msgid "Tribute to D. A."
@@ -277,11 +277,11 @@ msgstr "Tribut lui D. A."
 
 #: src/err-codes.h:71
 msgid "Weak encryption key"
-msgstr "Cheie de cifrare slab„"
+msgstr "Cheie de cifrare slab√£"
 
 #: src/err-codes.h:72
 msgid "Invalid key length"
-msgstr "Lungime cheie invalid„"
+msgstr "Lungime cheie invalid√£"
 
 #: src/err-codes.h:73
 msgid "Invalid argument"
@@ -289,7 +289,7 @@ msgstr "Argument invalid"
 
 #: src/err-codes.h:74
 msgid "Syntax error in URI"
-msgstr "Eroare de sintax„ Ón URI"
+msgstr "Eroare de sintax√£ √Æn URI"
 
 #: src/err-codes.h:75
 msgid "Invalid URI"
@@ -297,15 +297,15 @@ msgstr "URI incorect"
 
 #: src/err-codes.h:76
 msgid "Network error"
-msgstr "Eroare re˛ea"
+msgstr "Eroare re√æea"
 
 #: src/err-codes.h:77
 msgid "Unknown host"
-msgstr "Gazd„ necunoscut„"
+msgstr "Gazd√£ necunoscut√£"
 
 #: src/err-codes.h:78
 msgid "Selftest failed"
-msgstr "Auto-test e∫uat"
+msgstr "Auto-test e¬∫uat"
 
 #: src/err-codes.h:79
 msgid "Data not encrypted"
@@ -317,27 +317,27 @@ msgstr "Date neprocesate"
 
 #: src/err-codes.h:81
 msgid "Unusable public key"
-msgstr "Cheie public„ de nefolosit"
+msgstr "Cheie public√£ de nefolosit"
 
 #: src/err-codes.h:82
 msgid "Unusable secret key"
-msgstr "cheie secret„ de nefolosit"
+msgstr "cheie secret√£ de nefolosit"
 
 #: src/err-codes.h:83
 msgid "Invalid value"
-msgstr "Valoare invalid„"
+msgstr "Valoare invalid√£"
 
 #: src/err-codes.h:84
 msgid "Bad certificate chain"
-msgstr "Lan˛ certificate incorect"
+msgstr "Lan√æ certificate incorect"
 
 #: src/err-codes.h:85
 msgid "Missing certificate"
-msgstr "Certificat lips„"
+msgstr "Certificat lips√£"
 
 #: src/err-codes.h:86
 msgid "No data"
-msgstr "Nici o dat„"
+msgstr "Nici o dat√£"
 
 #: src/err-codes.h:87
 msgid "Bug"
@@ -345,19 +345,19 @@ msgstr "Bug"
 
 #: src/err-codes.h:88
 msgid "Not supported"
-msgstr "Nu este suportat(„)"
+msgstr "Nu este suportat(√£)"
 
 #: src/err-codes.h:89
 msgid "Invalid operation code"
-msgstr "Cod opera˛ie invalid"
+msgstr "Cod opera√æie invalid"
 
 #: src/err-codes.h:90
 msgid "Timeout"
-msgstr "Pauz„"
+msgstr "Pauz√£"
 
 #: src/err-codes.h:91
 msgid "Internal error"
-msgstr "Eroare intern„"
+msgstr "Eroare intern√£"
 
 #: src/err-codes.h:92
 msgid "EOF (gcrypt)"
@@ -377,15 +377,15 @@ msgstr "Obiectul furnizat e prea larg"
 
 #: src/err-codes.h:96
 msgid "Missing item in object"
-msgstr "Articol lips„ Ón obiect"
+msgstr "Articol lips√£ √Æn obiect"
 
 #: src/err-codes.h:97
 msgid "Not implemented"
-msgstr "Nu a fost implementat(„)"
+msgstr "Nu a fost implementat(√£)"
 
 #: src/err-codes.h:98
 msgid "Conflicting use"
-msgstr "Folosire Ón conflict"
+msgstr "Folosire √Æn conflict"
 
 #: src/err-codes.h:99
 msgid "Invalid cipher mode"
@@ -405,15 +405,15 @@ msgstr "Rezultat invalid"
 
 #: src/err-codes.h:103
 msgid "Incomplete line"
-msgstr "Linie incomplet„"
+msgstr "Linie incomplet√£"
 
 #: src/err-codes.h:104
 msgid "Invalid response"
-msgstr "R„spuns invalid"
+msgstr "R√£spuns invalid"
 
 #: src/err-codes.h:105
 msgid "No agent running"
-msgstr "Nu ruleaz„ nici un agent"
+msgstr "Nu ruleaz√£ nici un agent"
 
 #: src/err-codes.h:106
 msgid "agent error"
@@ -431,15 +431,15 @@ msgstr "Eroare server Assuan"
 #: src/err-codes.h:109
 #, fuzzy
 msgid "General Assuan error"
-msgstr "Eroare general„"
+msgstr "Eroare general√£"
 
 #: src/err-codes.h:110
 msgid "Invalid session key"
-msgstr "Cheie de sesiune invalid„"
+msgstr "Cheie de sesiune invalid√£"
 
 #: src/err-codes.h:111
 msgid "Invalid S-expression"
-msgstr "Expresie-S invalid„"
+msgstr "Expresie-S invalid√£"
 
 #: src/err-codes.h:112
 msgid "Unsupported algorithm"
@@ -471,7 +471,7 @@ msgstr "Parametru invalid"
 
 #: src/err-codes.h:119
 msgid "Wrong card"
-msgstr "Card gre∫it"
+msgstr "Card gre¬∫it"
 
 #: src/err-codes.h:120
 msgid "No dirmngr"
@@ -495,15 +495,15 @@ msgstr "CRL prea vechi"
 
 #: src/err-codes.h:125
 msgid "Line too long"
-msgstr "Linie prea lung„"
+msgstr "Linie prea lung√£"
 
 #: src/err-codes.h:126
 msgid "Not trusted"
-msgstr "Nu este de Óncredere"
+msgstr "Nu este de √Æncredere"
 
 #: src/err-codes.h:127
 msgid "Operation cancelled"
-msgstr "Opera˛iune anulat„"
+msgstr "Opera√æiune anulat√£"
 
 #: src/err-codes.h:128
 msgid "Bad CA certificate"
@@ -523,15 +523,15 @@ msgstr "Certificat nesuportat"
 
 #: src/err-codes.h:132
 msgid "Unknown S-expression"
-msgstr "Expresie-S necunoscut„"
+msgstr "Expresie-S necunoscut√£"
 
 #: src/err-codes.h:133
 msgid "Unsupported protection"
-msgstr "Protec˛ie nesuportat„"
+msgstr "Protec√æie nesuportat√£"
 
 #: src/err-codes.h:134
 msgid "Corrupted protection"
-msgstr "Protec˛ie corupt„"
+msgstr "Protec√æie corupt√£"
 
 #: src/err-codes.h:135
 msgid "Ambiguous name"
@@ -543,7 +543,7 @@ msgstr "Eroare card"
 
 #: src/err-codes.h:137
 msgid "Card reset required"
-msgstr "Este necesar„ resetarea cardului"
+msgstr "Este necesar√£ resetarea cardului"
 
 #: src/err-codes.h:138
 msgid "Card removed"
@@ -559,11 +559,11 @@ msgstr "Cardul nu este prezent"
 
 #: src/err-codes.h:141
 msgid "No PKCS15 application"
-msgstr "Nici o aplica˛ie PKCS15"
+msgstr "Nici o aplica√æie PKCS15"
 
 #: src/err-codes.h:142
 msgid "Not confirmed"
-msgstr "Neconfirmat(„)"
+msgstr "Neconfirmat(√£)"
 
 #: src/err-codes.h:143
 msgid "Configuration error"
@@ -595,23 +595,23 @@ msgstr "Protocol nesuportat"
 
 #: src/err-codes.h:150
 msgid "Bad PIN method"
-msgstr "Metod„ PIN incorect„"
+msgstr "Metod√£ PIN incorect√£"
 
 #: src/err-codes.h:151
 msgid "Card not initialized"
-msgstr "Card neini˛ializat"
+msgstr "Card neini√æializat"
 
 #: src/err-codes.h:152
 msgid "Unsupported operation"
-msgstr "Opera˛ie nesuportat„"
+msgstr "Opera√æie nesuportat√£"
 
 #: src/err-codes.h:153
 msgid "Wrong key usage"
-msgstr "Folosire cheie gre∫it„"
+msgstr "Folosire cheie gre¬∫it√£"
 
 #: src/err-codes.h:154
 msgid "Nothing found"
-msgstr "Nu a fost g„sit nimic"
+msgstr "Nu a fost g√£sit nimic"
 
 #: src/err-codes.h:155
 msgid "Wrong blob type"
@@ -619,11 +619,11 @@ msgstr "Tip de blob incorect"
 
 #: src/err-codes.h:156
 msgid "Missing value"
-msgstr "Valoare lips„"
+msgstr "Valoare lips√£"
 
 #: src/err-codes.h:157
 msgid "Hardware problem"
-msgstr "Problem„ hardware"
+msgstr "Problem√£ hardware"
 
 #: src/err-codes.h:158
 msgid "PIN blocked"
@@ -631,7 +631,7 @@ msgstr "PIN blocat"
 
 #: src/err-codes.h:159
 msgid "Conditions of use not satisfied"
-msgstr "Condi˛ii de folosire nesatisf„cute"
+msgstr "Condi√æii de folosire nesatisf√£cute"
 
 #: src/err-codes.h:160
 msgid "PINs are not synced"
@@ -651,27 +651,27 @@ msgstr "BER invalid"
 
 #: src/err-codes.h:164
 msgid "Element not found"
-msgstr "Elementul nu a fost g„sit"
+msgstr "Elementul nu a fost g√£sit"
 
 #: src/err-codes.h:165
 msgid "Identifier not found"
-msgstr "Identificator nu a fost g„sit"
+msgstr "Identificator nu a fost g√£sit"
 
 #: src/err-codes.h:166
 msgid "Invalid tag"
-msgstr "Etichet„ invalid„"
+msgstr "Etichet√£ invalid√£"
 
 #: src/err-codes.h:167
 msgid "Invalid length"
-msgstr "Lungime invalid„"
+msgstr "Lungime invalid√£"
 
 #: src/err-codes.h:168
 msgid "Invalid key info"
-msgstr "Informa˛ii cheie invalide"
+msgstr "Informa√æii cheie invalide"
 
 #: src/err-codes.h:169
 msgid "Unexpected tag"
-msgstr "Etichet„ nea∫teptat„"
+msgstr "Etichet√£ nea¬∫teptat√£"
 
 #: src/err-codes.h:170
 msgid "Not DER encoded"
@@ -695,11 +695,11 @@ msgstr "Obiect CMS nesuportat"
 
 #: src/err-codes.h:175
 msgid "Unsupported encoding"
-msgstr "Encodare nesuportat„"
+msgstr "Encodare nesuportat√£"
 
 #: src/err-codes.h:176
 msgid "Unsupported CMS version"
-msgstr "Versiune CMS nesuportat„"
+msgstr "Versiune CMS nesuportat√£"
 
 #: src/err-codes.h:177
 msgid "Unknown algorithm"
@@ -711,43 +711,43 @@ msgstr "Motor cifrare invalid"
 
 #: src/err-codes.h:179
 msgid "Public key not trusted"
-msgstr "Cheia public„ nu este de Óncredere"
+msgstr "Cheia public√£ nu este de √Æncredere"
 
 #: src/err-codes.h:180
 msgid "Decryption failed"
-msgstr "Decriptarea a e∫uat"
+msgstr "Decriptarea a e¬∫uat"
 
 #: src/err-codes.h:181
 msgid "Key expired"
-msgstr "Cheie expirat„"
+msgstr "Cheie expirat√£"
 
 #: src/err-codes.h:182
 msgid "Signature expired"
-msgstr "Semn„tur„ expirat„"
+msgstr "Semn√£tur√£ expirat√£"
 
 #: src/err-codes.h:183
 msgid "Encoding problem"
-msgstr "Problem„ de encodare"
+msgstr "Problem√£ de encodare"
 
 #: src/err-codes.h:184
 msgid "Invalid state"
-msgstr "Stare invalid„"
+msgstr "Stare invalid√£"
 
 #: src/err-codes.h:185
 msgid "Duplicated value"
-msgstr "Valoare dubl„"
+msgstr "Valoare dubl√£"
 
 #: src/err-codes.h:186
 msgid "Missing action"
-msgstr "Ac˛iune lips„"
+msgstr "Ac√æiune lips√£"
 
 #: src/err-codes.h:187
 msgid "ASN.1 module not found"
-msgstr "Modulul ASN.1 nu a fost g„sit"
+msgstr "Modulul ASN.1 nu a fost g√£sit"
 
 #: src/err-codes.h:188
 msgid "Invalid OID string"
-msgstr "™ir OID invalid"
+msgstr "¬™ir OID invalid"
 
 #: src/err-codes.h:189
 msgid "Invalid time"
@@ -759,7 +759,7 @@ msgstr "Obiect CRL invalid"
 
 #: src/err-codes.h:191
 msgid "Unsupported CRL version"
-msgstr "Versiune CRL nesuportat„"
+msgstr "Versiune CRL nesuportat√£"
 
 #: src/err-codes.h:192
 msgid "Invalid certificate object"
@@ -771,11 +771,11 @@ msgstr "Nume necunoscut"
 
 #: src/err-codes.h:194
 msgid "A locale function failed"
-msgstr "O func˛ie locale a e∫uat"
+msgstr "O func√æie locale a e¬∫uat"
 
 #: src/err-codes.h:195
 msgid "Not locked"
-msgstr "Nefor˛at(„)"
+msgstr "Nefor√æat(√£)"
 
 #: src/err-codes.h:196
 msgid "Protocol violation"
@@ -787,27 +787,27 @@ msgstr "MAC invalid"
 
 #: src/err-codes.h:198
 msgid "Invalid request"
-msgstr "Cerere invalid„"
+msgstr "Cerere invalid√£"
 
 #: src/err-codes.h:199
 #, fuzzy
 msgid "Unknown extension"
-msgstr "Expresie-S necunoscut„"
+msgstr "Expresie-S necunoscut√£"
 
 #: src/err-codes.h:200
 #, fuzzy
 msgid "Unknown critical extension"
-msgstr "Expresie-S necunoscut„"
+msgstr "Expresie-S necunoscut√£"
 
 #: src/err-codes.h:201
 #, fuzzy
 msgid "Locked"
-msgstr "Nefor˛at(„)"
+msgstr "Nefor√æat(√£)"
 
 #: src/err-codes.h:202
 #, fuzzy
 msgid "Unknown option"
-msgstr "Expresie-S necunoscut„"
+msgstr "Expresie-S necunoscut√£"
 
 #: src/err-codes.h:203
 #, fuzzy
@@ -817,12 +817,12 @@ msgstr "Cod de eroare necunoscut"
 #: src/err-codes.h:204
 #, fuzzy
 msgid "Not operational"
-msgstr "Opera˛ie nesuportat„"
+msgstr "Opera√æie nesuportat√£"
 
 #: src/err-codes.h:205
 #, fuzzy
 msgid "No passphrase given"
-msgstr "Fraz„-parol„ incorect„"
+msgstr "Fraz√£-parol√£ incorect√£"
 
 #: src/err-codes.h:206
 msgid "No PIN given"
@@ -831,7 +831,7 @@ msgstr ""
 #: src/err-codes.h:207
 #, fuzzy
 msgid "Not enabled"
-msgstr "Nefor˛at(„)"
+msgstr "Nefor√æat(√£)"
 
 #: src/err-codes.h:208
 #, fuzzy
@@ -841,7 +841,7 @@ msgstr "Motor cifrare invalid"
 #: src/err-codes.h:209
 #, fuzzy
 msgid "Missing key"
-msgstr "Valoare lips„"
+msgstr "Valoare lips√£"
 
 #: src/err-codes.h:210
 #, fuzzy
@@ -855,22 +855,22 @@ msgstr ""
 #: src/err-codes.h:212
 #, fuzzy
 msgid "Not initialized"
-msgstr "Card neini˛ializat"
+msgstr "Card neini√æializat"
 
 #: src/err-codes.h:213
 #, fuzzy
 msgid "Missing issuer certificate"
-msgstr "Certificat lips„"
+msgstr "Certificat lips√£"
 
 #: src/err-codes.h:214
 #, fuzzy
 msgid "Operation fully cancelled"
-msgstr "Opera˛iune anulat„"
+msgstr "Opera√æiune anulat√£"
 
 #: src/err-codes.h:215
 #, fuzzy
 msgid "Operation not yet finished"
-msgstr "Opera˛iune anulat„"
+msgstr "Opera√æiune anulat√£"
 
 #: src/err-codes.h:216
 msgid "Buffer too short"
@@ -878,60 +878,60 @@ msgstr "Buffer prea scurt"
 
 #: src/err-codes.h:217
 msgid "Invalid length specifier in S-expression"
-msgstr "Specificarea lungimii invalid„ Ón expresia-S"
+msgstr "Specificarea lungimii invalid√£ √Æn expresia-S"
 
 #: src/err-codes.h:218
 msgid "String too long in S-expression"
-msgstr "™ir prea lung Ón expresia-S"
+msgstr "¬™ir prea lung √Æn expresia-S"
 
 #: src/err-codes.h:219
 msgid "Unmatched parentheses in S-expression"
-msgstr "Parantez„ f„r„ pereche Ón expresia-S"
+msgstr "Parantez√£ f√£r√£ pereche √Æn expresia-S"
 
 #: src/err-codes.h:220
 msgid "S-expression not canonical"
-msgstr "Expresia-S nu este canonic„"
+msgstr "Expresia-S nu este canonic√£"
 
 #: src/err-codes.h:221
 msgid "Bad character in S-expression"
-msgstr "Caracter invalid Ón expresia-S"
+msgstr "Caracter invalid √Æn expresia-S"
 
 #: src/err-codes.h:222
 msgid "Bad quotation in S-expression"
-msgstr "Ghilimele incorecte Ón expresia-S"
+msgstr "Ghilimele incorecte √Æn expresia-S"
 
 #: src/err-codes.h:223
 msgid "Zero prefix in S-expression"
-msgstr "Prefix zero Ón expresia-S"
+msgstr "Prefix zero √Æn expresia-S"
 
 #: src/err-codes.h:224
 msgid "Nested display hints in S-expression"
-msgstr "Indica˛ii de afi∫are Óncuib„rite Ón expresia-S"
+msgstr "Indica√æii de afi¬∫are √Æncuib√£rite √Æn expresia-S"
 
 #: src/err-codes.h:225
 msgid "Unmatched display hints"
-msgstr "Indica˛ii de afi∫are f„r„ pereche"
+msgstr "Indica√æii de afi¬∫are f√£r√£ pereche"
 
 #: src/err-codes.h:226
 msgid "Unexpected reserved punctuation in S-expression"
-msgstr "Punctua˛ie rezervat„ nea∫teptat„ Ón expresia-S"
+msgstr "Punctua√æie rezervat√£ nea¬∫teptat√£ √Æn expresia-S"
 
 #: src/err-codes.h:227
 msgid "Bad hexadecimal character in S-expression"
-msgstr "Caracter hexazecimal incorect Ón expresia-S"
+msgstr "Caracter hexazecimal incorect √Æn expresia-S"
 
 #: src/err-codes.h:228
 msgid "Odd hexadecimal numbers in S-expression"
-msgstr "Numere hexazecimale ciudate Ón expresia-S"
+msgstr "Numere hexazecimale ciudate √Æn expresia-S"
 
 #: src/err-codes.h:229
 msgid "Bad octal character in S-expression"
-msgstr "Caracter octal incorect Ón expresia-S"
+msgstr "Caracter octal incorect √Æn expresia-S"
 
 #: src/err-codes.h:230
 #, fuzzy
 msgid "General IPC error"
-msgstr "Eroare general„"
+msgstr "Eroare general√£"
 
 #: src/err-codes.h:231
 msgid "IPC accept call failed"
@@ -944,22 +944,22 @@ msgstr ""
 #: src/err-codes.h:233
 #, fuzzy
 msgid "Invalid IPC response"
-msgstr "R„spuns invalid"
+msgstr "R√£spuns invalid"
 
 #: src/err-codes.h:234
 #, fuzzy
 msgid "Invalid value passed to IPC"
-msgstr "Valoare invalid„"
+msgstr "Valoare invalid√£"
 
 #: src/err-codes.h:235
 #, fuzzy
 msgid "Incomplete line passed to IPC"
-msgstr "Linie incomplet„"
+msgstr "Linie incomplet√£"
 
 #: src/err-codes.h:236
 #, fuzzy
 msgid "Line passed to IPC too long"
-msgstr "Linie prea lung„"
+msgstr "Linie prea lung√£"
 
 #: src/err-codes.h:237
 msgid "Nested IPC commands"
@@ -1002,7 +1002,7 @@ msgstr ""
 #: src/err-codes.h:246
 #, fuzzy
 msgid "Unexpected IPC command"
-msgstr "Etichet„ nea∫teptat„"
+msgstr "Etichet√£ nea¬∫teptat√£"
 
 #: src/err-codes.h:247
 #, fuzzy
@@ -1012,7 +1012,7 @@ msgstr "Cod de eroare necunoscut"
 #: src/err-codes.h:248
 #, fuzzy
 msgid "IPC syntax error"
-msgstr "Eroare de sintax„"
+msgstr "Eroare de sintax√£"
 
 #: src/err-codes.h:249
 msgid "IPC call has been cancelled"
@@ -1034,7 +1034,7 @@ msgstr "Eroare card"
 #: src/err-codes.h:253
 #, fuzzy
 msgid "Unknown IPC inquire"
-msgstr "Surs„ necunoscut„"
+msgstr "Surs√£ necunoscut√£"
 
 #: src/err-codes.h:254
 msgid "User defined error code 1"
@@ -1106,11 +1106,11 @@ msgstr ""
 
 #: src/err-codes.h:271
 msgid "Unknown system error"
-msgstr "Eroare de sistem necunoscut„"
+msgstr "Eroare de sistem necunoscut√£"
 
 #: src/err-codes.h:272
 msgid "End of file"
-msgstr "Sf‚r∫it de fi∫ier"
+msgstr "Sf√¢r¬∫it de fi¬∫ier"
 
 #: src/err-codes.h:273
 msgid "Unknown error code"
@@ -1124,7 +1124,7 @@ msgstr "Folosire: %s EROARE-GPG [...]\n"
 #: src/gpg-error.c:448
 #, c-format
 msgid "%s: warning: could not recognize %s\n"
-msgstr "%s: avertisment: nu am putut recunoa∫te %s\n"
+msgstr "%s: avertisment: nu am putut recunoa¬∫te %s\n"
 
 #~ msgid "Assuan error"
 #~ msgstr "Eroare Assuan"
